@@ -1,7 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Helloo..!</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Helloo..!</h1>
 
 
-<h3>Welcome to my page! </br></br> I'm Suraj Bolanavar, I am a full-stack javascript developer, specializing in front-end technologies.</h3>
+<h3 align="center" >Welcome to my page!</h3>
+<h3 align="center"> I'm Suraj Bolanavar, I am a full-stack javascript developer, specializing in front-end technologies.</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suraj_bolanavar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-bolanavar/) 
