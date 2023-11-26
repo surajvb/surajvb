@@ -2,7 +2,7 @@
 
 
 <h3>Welcome to my page! </br></br> I'm Suraj Bolanavar, I am a full-stack javascript developer, specializing in front-end technologies.</h3>
-<h2>Things I code with:</h2>
+<h2>Tech Stack:</h2>
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,7 +19,7 @@
 
 # 📊 GitHub Stats:
 
-<img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="300" height="350" />
+<img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="330" height="320" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark&hide_border=false)
