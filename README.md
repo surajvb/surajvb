@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Helloo! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br></br> I'm Suraj Bolanavar, I am a full-stack javascript developer, specializing in front-end technologies.</p>
-<h3>Things I code with</h3>
+<h3>Welcome to my page! </br></br> I'm Suraj Bolanavar, I am a full-stack javascript developer, specializing in front-end technologies.</h3>
+<h2>Things I code with:</h2>
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
