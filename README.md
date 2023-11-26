@@ -13,6 +13,6 @@
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="nodejs" src="https://img.shields.io/badge/node.js-CA4245?style=for-the-badge&logo=node.js&logoColor=white" />
 
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 </p>
