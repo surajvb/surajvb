@@ -19,7 +19,7 @@
 
 # 📊 GitHub Stats:
 
-<img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="350" height="250" />
+<img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="300" height="350" />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark&hide_border=false)
