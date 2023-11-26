@@ -19,7 +19,7 @@
 
 # 📊 GitHub Stats:
 
-<img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="450" height="380" />
+<img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="350" height="280" />
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false" alt="surajvb" width="450" height="280"/>
