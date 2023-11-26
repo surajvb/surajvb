@@ -16,8 +16,10 @@
   <img alt="AWS" src="https://img.shields.io/badge/AWS-2C3E50?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 
 </p>
+
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=surajvb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark&hide_border=false)
+
