@@ -48,7 +48,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false" alt="surajvb" width="450" height="280"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=surajvb&label=COUNT)
+![](https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS)
 
 
 
