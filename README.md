@@ -27,7 +27,6 @@
     <img alt="nodejs" src="https://img.shields.io/badge/node.js-CA4245?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
     <img alt="jwt" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-    <img alt="apollo-graphql" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
     <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   </h4>
 
