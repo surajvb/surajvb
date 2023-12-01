@@ -46,8 +46,8 @@
 # 📊 GitHub Stats:
 
 <div align="right">
-<img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="350" height="280" /> <br/> <br/>
-<img align="right" alt="reviews" src="https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS" width="350"/>
+<img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="350" height="280" />
+<!-- <img align="right" alt="reviews" src="https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS" width="350"/> -->
 </div>
 
 
