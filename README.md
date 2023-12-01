@@ -49,8 +49,8 @@
 
 
 <p align="left">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark" alt="surajvb" width="450" height="280"/>
-<img align="left" alt="reviews" src="https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark" alt="surajvb" width="450" height="280"/> <br/>
+<img align="left" alt="reviews" src="https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS"/> <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false" alt="surajvb" width="450" height="280"/>
 </p>
 
