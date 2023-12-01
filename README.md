@@ -41,15 +41,17 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suraj_bolanavar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-bolanavar/) 
 
-![](https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS)
+
 
 # 📊 GitHub Stats:
 
 <img align="right" alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="350" height="280" />
 
+
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark" alt="surajvb" width="450" height="280"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false" alt="surajvb" width="450" height="280"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark" alt="surajvb" width="450" height="280"/>
+<img align="left" alt="reviews" src="https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajvb&theme=dark&hide_border=false" alt="surajvb" width="450" height="280"/>
 </p>
 
 
