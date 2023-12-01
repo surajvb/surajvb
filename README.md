@@ -54,7 +54,7 @@
 </p>
 
 
-<img align="left" alt="reviews" src="https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS"/> <br/>
+<img align="center" alt="reviews" src="https://komarev.com/ghpvc/?username=surajvb&label=REVIEWS"/> <br/>
 
 
 
