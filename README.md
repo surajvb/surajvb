@@ -2,7 +2,6 @@
 
 
 
-<h3 align="center"> I'm Suraj Bolanavar, I am a full-stack javascript developer, specializing in front-end technologies.</h3>
 
 <h4>🌟 Full-Stack JavaScript Developer | Frontend Specialist </h4>
 <p>Passionate about building intuitive and scalable web applications using ReactJs, NodeJs and modern JavaScript.</p> 
