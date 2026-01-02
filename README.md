@@ -8,7 +8,7 @@ I architect and ship scalable, complex systems into clean, high-performance web 
 </h2>
 
 ### What I do 🚀
-- Build **enterprise-grade platforms** end-to-end — from system design to production scale  
+- Build **enterprise-grade platforms** end-to-end from system design to production scale  
 - Designed **Metadata Management portals for OTT platforms** using React, Node.js, and MongoDB  
 - Delivered **premium, consumer-facing web experiences** (e.g. AstonMartin.com) with advanced animations, performance tuning, and pixel-perfect UI  
 - Architect **scalable React + Node + Salesforce systems** for real-world business workflows  
