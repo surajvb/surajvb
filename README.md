@@ -18,12 +18,6 @@ I architect and ship scalable, complex systems into clean, high-performance web 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suraj_bolanavar/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajvb/)
 
-# 📊 GitHub Stats
-
-<div align="right">
-  <img alt="GIF" src="https://github.com/surajvb/surajvb/blob/master/code.gif?raw=true" width="350" height="280" />
-</div>
-
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajvb&theme=dark" alt="surajvb" width="450" height="280"/>
 </div>
