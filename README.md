@@ -4,7 +4,7 @@
 </h1>
 
 <h2>
-I architect and ship scalable, complex systems into clean, high-performance web applications.
+I architect complex systems into clean, high-performance web applications.
 </h2>
 
 <table>
