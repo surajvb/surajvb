@@ -3,7 +3,7 @@
   Hey Helloo..!
 </h1>
 
-<h2>
+<h2 align="center">
 I architect complex systems into clean, high-performance web applications.
 </h2>
 
